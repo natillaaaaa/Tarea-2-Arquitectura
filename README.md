@@ -2,7 +2,7 @@
 
 Estudiante: Nathali Chacon Murillo
 
-URL de publicación en Netlify:
+URL de publicación en Netlify: https://arquitecturanath.netlify.app/blog/
 
 ## Cómo correrlo localmente
 
